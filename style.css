@@ -85,7 +85,7 @@ nav ul li a::hover{}
     text-align: center;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 2px 2px 30px #03a9f4;
+    /* box-shadow: 2px 2px 30px #03a9f4; */
 }
 .banner-img{
     width: 40%;
